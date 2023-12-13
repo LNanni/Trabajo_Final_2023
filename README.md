@@ -1,4 +1,5 @@
 Grupo: Sin nombre
+
 Integrantes: Leandro Nanni Rebollo
 	- Encargado de realizar la conexión con la base de datos, la lógica y el mínimo Front necesario para generar las interacciones.
 
